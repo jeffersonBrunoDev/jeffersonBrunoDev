@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=00FF38&center=true&vCenter=true&width=700&lines=Desenvolvedor+Backend+J%C3%BAnior;Game+Dev;Construindo+APIs+e+Games;.NET+Cloud+Dados;Transformando+regras+em+c%C3%B3digo" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=00FF38&center=true&vCenter=true&width=700&lines=Desenvolvedor+Backend+J%C3%BAnior;GameDev;Construindo+APIs+e+Games;.NET+Cloud+Dados;Transformando+regras+em+c%C3%B3digo" alt="Typing SVG" /></a>
 
 <br>
 
@@ -87,7 +87,7 @@ Atualmente, meu principal foco está em:
 
 <br>
 
-<a href="www.instagram.com/jeffersonbruno_dev">
+<a href="https://instagram.com/jeffersonbruno_dev">
 <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=00FF38"/>
 </a>
 
@@ -98,3 +98,15 @@ Atualmente, meu principal foco está em:
 <a href="https://github.com/jeffersonBrunoDev">
 <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=00FF38"/>
 </a>
+
+<br><br>
+
+<sub>Backend • APIs • Dados • Cloud</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0%3A0d0d0d%2C50%3A171117%2C100%3A24FF38&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" />
